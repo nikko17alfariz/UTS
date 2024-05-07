@@ -1,0 +1,53 @@
+.form-container {
+  width: 50%;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 0.5rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+h2 {
+  text-align: center;
+}
